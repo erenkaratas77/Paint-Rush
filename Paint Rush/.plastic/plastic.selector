@@ -1,0 +1,4 @@
+repository "Paint Rush@Karatass@cloud"
+  path "/"
+    br "/main"
+    co "/main"
